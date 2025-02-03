@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "modantonadia1",
+	"version": "${version}",
+	"name": "Mod Dia 1",
+	"description": "mod del dia 1 para el video de antona (la introduccion!)",
+	"authors": [
+		"naujconlive"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/modantonadia1/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.naujconlive.modantonadia1.ModDia1"
+		],
+		"fabric-datagen": [
+			"net.naujconlive.modantonadia1.ModDia1DataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

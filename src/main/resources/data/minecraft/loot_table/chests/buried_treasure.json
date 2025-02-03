@@ -1,0 +1,15 @@
+{
+  "replace": true,
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "modantonadia1:dick"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

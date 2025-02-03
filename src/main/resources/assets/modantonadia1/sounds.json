@@ -1,0 +1,28 @@
+{
+  "majaji_ambient": {
+    "subtitle": "sounds.modantonadia1.majaji_ambient",
+    "sounds": [
+      "modantonadia1:majaji_ambient"
+    ]
+  },
+  "majaji_hit": {
+    "subtitle": "sounds.modantonadia1.majaji_hit",
+    "sounds": [
+      "modantonadia1:majaji_hit"
+    ]
+  },
+  "majaji_death": {
+    "subtitle": "sounds.modantonadia1.majaji_death",
+    "sounds": [
+      "modantonadia1:majaji_death"
+    ]
+  },
+  "i_got_bitches": {
+    "sounds": [
+      {
+        "name": "modantonadia1:i_got_bitches",
+        "stream": true
+      }
+    ]
+  }
+}

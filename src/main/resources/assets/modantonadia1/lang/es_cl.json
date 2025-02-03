@@ -1,0 +1,14 @@
+{
+  "itemgroup.modantonadia1.mod_dia_1_items": "Items del Mod Dia 1",
+
+  "entity.modantonadia1.majaji": "Majaji",
+  "item.modantonadia1.majaji_spawn_egg": "Majaji Spawn Egg",
+  "sounds.modantonadia1.majaji_ambient": "Majaji da la bienvenida",
+  "sounds.modantonadia1.majaji_hit": "Majaji se queja",
+  "sounds.modantonadia1.majaji_death": "Majaji FUCKIN SE ENOJA",
+
+  "item.modantonadia1.i_got_bitches_music_disc": "I Got Bitches",
+  "item.modantonadia1.i_got_bitches_music_disc.desc": "A2M - I Got Bitches",
+
+  "item.modantonadia1.dick": "Pene"
+}
